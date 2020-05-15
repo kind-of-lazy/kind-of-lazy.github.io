@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WuQi的博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-06T01:55:00.858Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>WuQi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>友链</title>
+    <link href="http://yoursite.com/2020/05/06/%E5%8F%8B%E9%93%BE/"/>
+    <id>http://yoursite.com/2020/05/06/%E5%8F%8B%E9%93%BE/</id>
+    <published>2020-05-06T01:45:18.179Z</published>
+    <updated>2020-05-06T01:55:00.858Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>我在这里，推荐我朋友的域名，感谢他，让我在编程里<br>找到一位知己。明白，编程并不寂寞！！<br><a href="https://12121-12121.github.io/" target="_blank" rel="noopener">https://12121-12121.github.io/</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;我在这里，推荐我朋友的域名，感谢他，让我在编程里&lt;br&gt;找到一位知己。明白，编程并不寂寞！！&lt;br&gt;&lt;a href=&quot;https://12121-12121.github.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;ht
+      
+    
+    </summary>
+    
+    
+      <category term="友链" scheme="http://yoursite.com/categories/%E5%8F%8B%E9%93%BE/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>本站版权</title>
+    <link href="http://yoursite.com/2020/05/06/%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98/"/>
+    <id>http://yoursite.com/2020/05/06/%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98/</id>
+    <published>2020-05-06T01:06:00.000Z</published>
+    <updated>2020-05-14T00:38:25.344Z</updated>
+    
+    <content type="html"><![CDATA[<p>本站的所有（包括源代码）都受到版权保护，<br>如果需要转载，请注明本站地址<br>如果需要进行商业转载，请与作者达成纸质协议<br>本站源码：<a href="https://github.com/kind-of-lazy/kind.github.io" target="_blank" rel="noopener">https://github.com/kind-of-lazy/kind.github.io</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;本站的所有（包括源代码）都受到版权保护，&lt;br&gt;如果需要转载，请注明本站地址&lt;br&gt;如果需要进行商业转载，请与作者达成纸质协议&lt;br&gt;本站源码：&lt;a href=&quot;https://github.com/kind-of-lazy/kind.github.io&quot; target=&quot;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/05/05/hello/"/>
+    <id>http://yoursite.com/2020/05/05/hello/</id>
+    <published>2020-05-05T02:34:21.169Z</published>
+    <updated>2020-05-06T04:42:28.193Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>纪念：网站在2020-05-06建立，现在仍在建设和维护。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;纪念：网站在2020-05-06建立，现在仍在建设和维护。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
