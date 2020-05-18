@@ -9,14 +9,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>加密文章测试</title>
-    <url>/2020/05/17/jia-mi-wen-zhang-ce-shi/</url>
-    <content><![CDATA[<blockquote>
-<p>这是一篇加密文章，仅供作者测试！</p>
-</blockquote>
-]]></content>
-  </entry>
-  <entry>
     <title>友链</title>
     <url>/2020/05/06/you-lian/</url>
     <content><![CDATA[<blockquote>
@@ -26,6 +18,14 @@
       <categories>
         <category>友链</category>
       </categories>
+  </entry>
+  <entry>
+    <title>加密文章测试</title>
+    <url>/2020/05/17/jia-mi-wen-zhang-ce-shi/</url>
+    <content><![CDATA[<blockquote>
+<p>这是一篇加密文章，仅供作者测试！</p>
+</blockquote>
+]]></content>
   </entry>
   <entry>
     <title>更新日志</title>
