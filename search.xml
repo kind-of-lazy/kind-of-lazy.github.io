@@ -9,6 +9,14 @@
 ]]></content>
   </entry>
   <entry>
+    <title>加密文章测试</title>
+    <url>/2020/05/17/jia-mi-wen-zhang-ce-shi/</url>
+    <content><![CDATA[<blockquote>
+<p>这是一篇加密文章，仅供作者测试！</p>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
     <title>友链</title>
     <url>/2020/05/06/you-lian/</url>
     <content><![CDATA[<blockquote>
@@ -20,24 +28,15 @@
       </categories>
   </entry>
   <entry>
-    <title>加密文章测试</title>
-    <url>/2020/05/17/jia-mi-wen-zhang-ce-shi/</url>
-    <content><![CDATA[<blockquote>
-<p>这是一篇加密文章，仅供作者测试！</p>
-</blockquote>
+    <title>本站版权</title>
+    <url>/2020/05/06/ban-quan-wen-ti/</url>
+    <content><![CDATA[<p>本站的所有（包括源代码）都受到版权保护，<br>如果需要转载，请注明本站地址<br>如果需要进行商业转载，请与作者达成纸质协议<br>本站源码：<a href="https://github.com/kind-of-lazy/kind.github.io" target="_blank" rel="noopener">https://github.com/kind-of-lazy/kind.github.io</a></p>
 ]]></content>
   </entry>
   <entry>
     <title>更新日志</title>
-    <url>/2020/05/18/geng-xin-ri-zhi/</url>
-    <content><![CDATA[<hr>
-<h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>本站仍在建设中……….</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>本站版权</title>
-    <url>/2020/05/06/ban-quan-wen-ti/</url>
-    <content><![CDATA[<p>本站的所有（包括源代码）都受到版权保护，<br>如果需要转载，请注明本站地址<br>如果需要进行商业转载，请与作者达成纸质协议<br>本站源码：<a href="https://github.com/kind-of-lazy/kind.github.io" target="_blank" rel="noopener">https://github.com/kind-of-lazy/kind.github.io</a></p>
+    <url>/2020/05/18/zhan-dian-mu-lu/</url>
+    <content><![CDATA[<p>github站：<a href="https://kind-of-lazy.github.io/">https://kind-of-lazy.github.io/</a><br>gitee站：建设中….<br>coding站：<a href="http://qwmfuy.coding-pages.com/" target="_blank" rel="noopener">http://qwmfuy.coding-pages.com/</a></p>
 ]]></content>
   </entry>
 </search>
